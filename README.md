@@ -1,4 +1,5 @@
-####The project is modified from "https://github.com/vinta/pangu", so it's called pango
+#pango
+###The project is modified from "https://github.com/vinta/pangu", so it's called pango
 主要用于自动化给代码中中英文之间添加空格
 
 目录下的二进制文件就是编译得到的,可以直接运行
