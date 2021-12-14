@@ -1,4 +1,3 @@
-# pango
 ####The project is modified from "https://github.com/vinta/pangu", so it's called pango
 主要用于自动化给代码中中英文之间添加空格
 
@@ -15,4 +14,3 @@ or<br>
 `./pango f -w -c [filename|dir]`<br>
 or <br>
 `./pango file -w -c [filename|dir]`
-
